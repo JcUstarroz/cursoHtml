@@ -1,0 +1,54 @@
+body{
+  background:#efefef;
+}
+
+
+span{
+  color:#73a258;
+}
+
+/* p{
+  color:rgb(0,255,255);
+}
+ */
+.texto{
+  font-size: 30px;
+  color:red;
+}
+
+#parrafo{
+  font-size: 60px;
+  color:blue
+}
+
+/* p.combinado{
+  font-size: 90px;
+
+}
+ */
+
+p.caja{
+  border:3px solid red;
+  /* margin: arriba derecha abajo izquierda */
+ /*  margin:30px 50px 10px 50px; */
+ 
+ 
+ /* margin: (arriba, abajo) (izquierda Derecha) */
+
+ margin:30px 50px;
+
+ 
+ /* margin: a,d,a,i */
+/*  margin:40px */
+
+
+}
+
+p.box{
+  border: 3px dashed blue;
+  margin:0;
+  padding:15px;
+}
+
+
+
